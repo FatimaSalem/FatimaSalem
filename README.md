@@ -1,6 +1,8 @@
+![42AbuDhabi-OGImage](https://user-images.githubusercontent.com/106735363/198286156-dd5e860c-74cd-4336-be30-0865107e6d61.jpg)
+
 - 👋 Hi, I’m @FatimaSalem
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning C in 42 AbuDhabi 
+- 🌱 I’m currently learning software development in 42 AbuDhabi 
 - 💞️ I’m looking to collaborate on Abudhabi 2030 vision
 - 📫 How to reach me ----> fsalem@student.42abudhabi.ae
 - 😝 Fun fact i'm currently on the final stages of getting my Bachelor's of science in finance and my diploma in software development. Wish me luck to get my degrees!
