@@ -6,7 +6,7 @@
 
 <img width="176" alt="Screen Shot 2022-10-27 at 9 21 16 AM" src="https://user-images.githubusercontent.com/106735363/198198616-80b74ae7-a934-4b79-8e63-98bcd6c4481c.png">
 
-![coding](https://user-images.githubusercontent.com/106735363/198196546-2ccdd135-af44-40c8-bfe6-ac4b9c14791d.gif)
+![3odR](https://user-images.githubusercontent.com/106735363/198203677-470791c7-d6e8-48fe-b2c2-c7acb3ae9ed8.gif)
 
 <!---
 FatimaSalem/FatimaSalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
