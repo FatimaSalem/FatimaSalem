@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C in 42 AbuDhabi 
 - 💞️ I’m looking to collaborate on Abudhabi 2030 vision
 - 📫 How to reach me ----> fatimasalem421999@gmail.com
+- 😝 Fun fact i'm currently on the final stages of getting my Bachelor's of science in finance. Wish me luck to get my degree!
 
 <img width="176" alt="Screen Shot 2022-10-27 at 9 21 16 AM" src="https://user-images.githubusercontent.com/106735363/198198616-80b74ae7-a934-4b79-8e63-98bcd6c4481c.png">
 
