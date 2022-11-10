@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @FatimaSalem
 - 🏦 I'm a Financial Analyst
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning software development in 42 AbuDhabi school
+- 👀 I’m a Software Developer
+- 🌱 Learned software development in 42 AbuDhabi school
 - 📫 How to reach me ----> fsalem@student.42abudhabi.ae
 
 <img width="176" alt="Screen Shot 2022-10-27 at 9 21 16 AM" src="https://user-images.githubusercontent.com/106735363/198246673-7858d3eb-58ef-4e5f-b2c0-05406ca86b22.png">
