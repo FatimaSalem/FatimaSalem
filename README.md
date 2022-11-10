@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @FatimaSalem
 - 🏦 I'm a Financial Analyst
-- 👀 I’m a Software Developer
+- 👩🏻‍💻 I’m a Software Developer
 - 🌱 Learned software development in 42 AbuDhabi school
 - 📫 How to reach me ----> fsalem@student.42abudhabi.ae
 
